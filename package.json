@@ -1,12 +1,28 @@
 {
+<<<<<<< HEAD
   "name": "servidor",
+=======
+  "name": "node",
+>>>>>>> 27d8131b8984abe96757896007b8cc87ea13e731
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch ./src/index.js"
+
+  },
+  "author": "Carlos",
+  "license": "ISC",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+>>>>>>> 27d8131b8984abe96757896007b8cc87ea13e731
 }
