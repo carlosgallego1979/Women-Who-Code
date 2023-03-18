@@ -9,6 +9,13 @@ const writeHTMLresponse = (res,htmlCode) =>{
     res.end(htmlCode);
 }
 
+const products = {
+
+    {
+         name: "Reloj",    "Reloj": unknown workerData.
+    }.{}, {}
+}
+
 const server= http.createServer((req, res) => {
  const url = req.url;
  console.log("URL es ", url);
