@@ -10,10 +10,7 @@ const writeHTMLresponse = (res,htmlCode) =>{
 }
 
 const products = {
-
-    {
-         name: "Reloj",    "Reloj": unknown workerData.
-    }.{}, {}
+         name: "Reloj"
 }
 
 const server= http.createServer((req, res) => {
